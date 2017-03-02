@@ -18,7 +18,7 @@ Your program should;
 2. take two arguments: one for a JSON file to read and one for a CSV file to write, and
 3. after completion, print out the statistics to the console.
 
-Do not tie your program should not be tied to any one specific operating system. Keep the solution purely Java. If you feel the need to deviate from Java, explain your reasoning.
+Do not tie your program to any one specific operating system, it should be able to run on various operating systems. Keep the solution purely Java. If you feel the need to deviate from Java, explain your reasoning.
 
 Feel free to fork this GitHub repo to do your work. When you feel that you are done, email us a link to your fork, and we'll review.
 
