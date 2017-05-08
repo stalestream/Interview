@@ -77,7 +77,7 @@ The output CSV file should be comma delimited, fields should be quoted if necess
 `TIMESTAMP,ACTION,USER,FOLDER,FILENAME,IP`
 
 |Column|Description|Examples|
-|---|---|---|---|
+|---|---|---|
 |Timestamp|ISO 8601 compliant String, with milliseconds and timezone.|2015-11-04T13:15:37.000-05:00, 2015-11-05T14:45:34.000Z|
 |Action|Our interpretation of the activities, one of “ADD”, “REMOVE” or “ACCESSED”. Mapping below.|ACCESSED|
 |User|The user performing the action, without “@customer.com”|jsmith|
